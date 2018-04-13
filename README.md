@@ -4,12 +4,18 @@ This is just an example code for audio-visual emotion recognition via a hybrid d
 
 Related datasets and tools can be found as follows:
 RML audio-visual emotional database: https://github.com/emotion-database/RML_Emotion_Database
+
 Log Mel_spectorgram extraction: https://github.com/m-r-s/reference-feature-extraction
+
 MatConvnet:  http://www.vlfeat.org/matconvnet/
+
 3D-CNN(Caffe): http://caffe.berkeleyvision.org/
+
 DBN: http://ceit.aut.ac.ir/ keyvanrad/
+
 SVM: https://www.csie.ntu.edu.tw/cjlin/libsvm/
 
 
 Please see the details and cite our paper:
+
 Zhang Shiqing, Zhang Shiliang, Huang Tiejun, Gao Wen, Tian Qi. Learning Affective Features with a Hybrid Deep Model for Audio-Visual Emotion Recognition. IEEE Transactions on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2017.2719043, 2017.
